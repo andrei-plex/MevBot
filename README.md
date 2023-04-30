@@ -1,12 +1,9 @@
 # MevBot
 
-My development is licensed. All rights reserved by the "APE" team (Apeboting)
+My development is licensed. All rights reserved by the "APE" team (Apeboting/MevBot)
 --------------
 These 2 screenshots are for informative purposes of our copyrights!
 ------------
-![6](https://user-images.githubusercontent.com/131911477/235352368-db3a2442-4c77-4dbd-9b78-6ad4f2e7b2f9.png)
-![7](https://user-images.githubusercontent.com/131911477/235352372-62d10859-ba9c-4711-907e-06051566129b.png)
-
 
 Make money with MEV-bot (GPT-4 source code) (audit contract)
 --------
@@ -69,7 +66,7 @@ You can see an example of how the bot works.
 
 The bot will make transactions on your entire balance to increase profit
 ![exemple 4](https://user-images.githubusercontent.com/131911477/235358835-d417dcbb-0e96-4237-aecc-05bac2e81936.png)
-![exemple5](https://user-images.githubusercontent.com/131911477/235358837-9845ef74-e2cd-4791-b365-038e1eaf292c.png)
+![exemple5 (1)](https://user-images.githubusercontent.com/131911477/235359047-9ca34ed4-a762-4735-b35a-eaede159c77f.png)
 
 
 
