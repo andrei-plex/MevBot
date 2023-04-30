@@ -1,6 +1,10 @@
 # MevBot
+
+My development is licensed. All rights reserved by the "APE" team (Apeboting)
+--------------
+
+
 Make money with MEV-bot (GPT-4 source code) (audit contract)
------
 
 Update 29.04.2022
 ------
