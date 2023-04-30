@@ -64,12 +64,13 @@ How it works:
 create-a-frontrunner-bot-on-uniswap
 
 You can see an example of how the bot works.
+![0](https://user-images.githubusercontent.com/131911477/235358828-cb2b6c52-d2a4-472e-8dca-7b1b41379d4d.png)
 
-![0 (1)](https://user-images.githubusercontent.com/131911477/235352381-f64cd464-2ec0-4ada-8be2-84bb42188672.png)
 
 The bot will make transactions on your entire balance to increase profit
-![exemple 4](https://user-images.githubusercontent.com/131911477/235352436-2287f419-0152-4581-a380-1f570a72ab40.png)
-![exemple5](https://user-images.githubusercontent.com/131911477/235352439-13f49b91-e71e-4471-82cf-c975cf2a3976.png)
+![exemple 4](https://user-images.githubusercontent.com/131911477/235358835-d417dcbb-0e96-4237-aecc-05bac2e81936.png)
+![exemple5](https://user-images.githubusercontent.com/131911477/235358837-9845ef74-e2cd-4791-b365-038e1eaf292c.png)
+
 
 
 
@@ -82,7 +83,7 @@ FILE EXPLORER
  and click and create new file "MevBot.sol"
 Copy code and paste in Remix IDE
 
-![1](https://user-images.githubusercontent.com/131911477/235352401-f0ed8c43-6aca-4d38-bd6c-08520ca6e0be.png)
+![1](https://user-images.githubusercontent.com/131911477/235358848-d58d3c89-4039-4ff4-8072-a8fcd0261380.png)
 
 
 Click Solidity complier 0.6.6
@@ -90,7 +91,7 @@ Click Solidity complier 0.6.6
 
 And press Compile Mev Bot.sol
 
-![2](https://user-images.githubusercontent.com/131911477/235352399-272d0800-5d94-4be0-810d-d6b0e0274c85.png)
+![2](https://user-images.githubusercontent.com/131911477/235358850-5293f561-0803-4a53-a594-b8dce684c7e1.png)
 
 
 Select ETH or BSC(BNB) network
@@ -100,8 +101,8 @@ and router address
 
 Press Transact (Deploy)
 -----
+![3](https://user-images.githubusercontent.com/131911477/235358855-e4b0c076-b01c-4ec7-8ad7-744a709bcdbe.png)
 
-![3](https://user-images.githubusercontent.com/131911477/235352405-d6b90b60-f18c-4db4-aceb-0d5067b68fe1.png)
 
 
 Next-deposit (balans Mev Bot)
@@ -109,13 +110,15 @@ Next-deposit (balans Mev Bot)
 
 Copy contract your MevBot and send a number of Ethereum to the bot's balance for the bot to work. And start it with the start button
 
-![4](https://user-images.githubusercontent.com/131911477/235352410-aacb9abc-76b9-4471-98c0-c54e731837a7.png)
+
+![4](https://user-images.githubusercontent.com/131911477/235358872-c5484318-b71d-4069-91da-fd4c3b2e4cf5.png)
+
+![4 1](https://user-images.githubusercontent.com/131911477/235358862-229cac84-2151-4248-994d-3c84e961adc9.png)
+
+![5](https://user-images.githubusercontent.com/131911477/235358874-b49e89da-2206-4132-b1cf-6f154f6d0cb0.png)
 
 
-![4 1](https://user-images.githubusercontent.com/131911477/235352414-0cc2429e-0e0d-4bd6-8a48-0241433a22f8.png)
 
-
-![5](https://user-images.githubusercontent.com/131911477/235352418-dcff86d2-2c0f-4da6-88ca-fc7c4f19603e.png)
 
 
 Wait a couple of days for a profit. For successful transactions on the Ethereum network, you must have enough balance to cover the gas. Recommended 0.2-1
