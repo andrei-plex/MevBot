@@ -2,7 +2,7 @@
 
 My development is licensed. All rights reserved by the "APE" team (Apeboting/MevBot)
 --------------
-This screenshots are for informative purposes of our copyrights!
+This screenshot are for informative purposes of our copyrights!
 ------------
 ![VodianoyZnak (1)](https://user-images.githubusercontent.com/131911477/235360990-7b1de85a-a789-4de7-b848-9994009eb6fa.png)
 
